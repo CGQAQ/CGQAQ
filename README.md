@@ -1,13 +1,6 @@
-<a href="https://github.com/cgqaq#gh-light-mode-only">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=cgqaq&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/cgqaq#gh-dark-mode-only">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=cgqaq&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only" />
-</a>
-
-<a href="https://github.com/cgqaq">
-  <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgqaq&layout=compact&langs_count=8" />
+[![CGQAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CGQAQ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/CGQAQ)
+<a href="https://github.com/CGQAQ">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgqaq&layout=compact&langs_count=8">
 </a>
 
 - 👋 Hi, I’m @CGQAQ
