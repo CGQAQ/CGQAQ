@@ -1,6 +1,6 @@
-[![CGQAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CGQAQ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/CGQAQ)
+[![CGQAQ's GitHub stats](https://github-readme-stats-one-mu-82.vercel.app/api?username=CGQAQ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/CGQAQ)
 <a href="https://github.com/CGQAQ">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgqaq&layout=compact&langs_count=8">
+  <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=cgqaq&layout=compact&langs_count=8">
 </a>
 
 - 👋 Hi, I’m @CGQAQ
