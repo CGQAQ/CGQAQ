@@ -1,3 +1,5 @@
+![Screenshot_2023-05-20-14-39-08-400_com google android youtube-edit](https://github.com/CGQAQ/CGQAQ/assets/15936231/ab7d536e-8b6c-4c09-89a1-d80de1775515)
+
 [![CGQAQ's GitHub stats](https://github-readme-stats-one-mu-82.vercel.app/api?username=CGQAQ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/CGQAQ)
 <a href="https://github.com/CGQAQ">
   <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=cgqaq&layout=compact&langs_count=8">
