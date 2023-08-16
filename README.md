@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
   - 👋 Hi, I’m @CGQAQ
   - 👀 I’m interested in Rust, C++ and all that kind of stuffs
   - 🌱 I’m currently learning and contributing to the Deno project
+  - 🚀 Zig enthusiast
 </a>
 
 
