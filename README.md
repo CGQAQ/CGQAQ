@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 <!--   <img height="195" align="left" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=CGQAQ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> -->
   <img width="50%" align="top" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=cgqaq&layout=compact&langs_count=8">
 
+  <br>
   
   - 👋 Hi, I’m @CGQAQ
   - 👀 I’m interested in Rust, C++ and all that kind of stuffs
@@ -21,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 ![](profile-3d-contrib/profile-season-animate.svg)
 
 <details>
-<summary>Skill graph</summary>
+<summary>More...</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=cgqaq">
   <br>
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CGQAQ">
 </details>
