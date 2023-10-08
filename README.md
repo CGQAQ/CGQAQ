@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+![](profile-3d-contrib/profile-season-animate.svg)
+
 <details>
 <summary>Skill graph</summary>
   <br>
