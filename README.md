@@ -7,8 +7,10 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://github.com/cgqaq">
-    <img align="left" hspace="80" style="margin-right: 100px" height="120" width="120" src="self-taught.jpg" />
+    <img align="left" hspace="50" style="margin-right: 100px" height="150" width="150" src="self-taught.jpg" />
 </a>
+
+
 
 - Interested in Rust, C++ and all that kind of stuffs
 - A [Chromium](https://chromium-review.googlesource.com/q/owner:m.jason.liu@gmail.com) contributor
