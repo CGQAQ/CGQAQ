@@ -3,11 +3,11 @@ CGQAQ/CGQAQ is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/cgqaq">
-    <img width="753" height="200" src="/content.svg">
+    <img  hspace="80"  width="590" height="200" src="/content.svg">
 </a>
 
 <a href="https://github.com/cgqaq">
-    <img align="left" hspace="60" style="margin-right: 100px" height="120" width="120" src="self-taught.jpg" />
+    <img align="left" hspace="80" style="margin-right: 100px" height="120" width="120" src="self-taught.jpg" />
 </a>
 
 - Interested in Rust, C++ and all that kind of stuffs
