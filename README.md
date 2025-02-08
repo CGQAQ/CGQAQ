@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://github.com/cgqaq">
-    <img align="left" hspace="20" height="120" width="120" src="self-taught.jpg" />
+    <img align="left" hspace="60" style="margin-right: 100px" height="120" width="120" src="self-taught.jpg" />
 </a>
 
 - Interested in Rust, C++ and all that kind of stuffs
