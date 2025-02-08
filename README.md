@@ -3,7 +3,8 @@ CGQAQ/CGQAQ is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="/content.svg">
+<embed width="300px" height="300px" src="/content.svg">
 
-## 访问量： 
+## 访问量：
+
 ![](https://profile-counter.glitch.me/cgqaq/count.svg)
