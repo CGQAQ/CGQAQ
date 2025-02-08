@@ -14,7 +14,7 @@
       overflow: hidden;
       border-right: 3px solid;
       font-family: monospace;
-      font-size: 1.5em;
+      font-size: 3em;
       background: linear-gradient(90deg, rgba(0, 241, 220, 1) 0%, rgba(86, 115, 241, 1) 44%, rgba(103, 68, 241, 1) 54%, rgba(254, 0, 255, 1) 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -24,6 +24,10 @@
       display: inline-block;
       justify-self: flex-start;
       grid-row: 3;
+    }
+
+    ul>li {
+      font-size: 2rem;
     }
 
     .h {
@@ -63,8 +67,9 @@
 
           <ul>
             <li> 👀 I’m interested in Rust, C++ and all that kind of stuffs</li>
-            <li> 🌱 I’m currently learning and contributing to the Deno project</li>
-            <li> 🚀 [Zig](https://github.com/ziglang/zig) enthusiast</li>
+            <li> <a href="https://chromium-review.googlesource.com/q/owner:m.jason.liu@gmail.com">Chromium</a>
+              contributor </li>
+            <li> 🚀 <a href="https://github.com/ziglang/zig">Zig</a> enthusiast</li>
           </ul>
         </div>
       </div>
