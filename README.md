@@ -3,7 +3,7 @@ CGQAQ/CGQAQ is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="content.svg">
+<img src="content.svg?1">
 
 
 ## 访问量： 
