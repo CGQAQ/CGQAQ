@@ -2,8 +2,9 @@
 CGQAQ/CGQAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<embed width="300px" height="300px" src="/content.svg">
+<a href="https://github.com/cgqaq">
+    <img width="300px" height="300px" src="/content.svg">
+</a>
 
 ## 访问量：
 
