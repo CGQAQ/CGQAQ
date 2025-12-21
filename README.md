@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - Interested in Rust, C++ and all that kind of stuffs
 - A [Chromium](https://chromium-review.googlesource.com/q/owner:cgqaq@chromium.org) committer
 - A [Zig](https://github.com/ziglang/zig) enthusiast
-- Employed as front-end an engineer right now
+- Fluttering right now
 
 <br><br><br>
 
