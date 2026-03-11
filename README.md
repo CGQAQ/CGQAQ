@@ -12,13 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- Interested in Rust, C++ and all that kind of stuffs
+- Interested in Rust, C++, and all that kind of stuffs
 - A [Chromium](https://chromium-review.googlesource.com/q/owner:cgqaq@chromium.org) committer
-- A [Zig](https://github.com/ziglang/zig) enthusiast
-- Fluttering right now
-
-<br><br><br>
-
-## 访问量：
-
-![](https://profile-counter.glitch.me/cgqaq/count.svg)
+- Power Codex user （Used Codex a lot lately)
